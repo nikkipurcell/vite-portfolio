@@ -1,0 +1,20 @@
+.timeline-item {
+  margin-top: 40px;
+  position: relative;
+}
+
+.timeline-item:first-child {
+  margin-top: 0;
+}
+
+.timeline-icon {
+  width: 25px;
+  height: 25px;
+  border: 2px solid #22d3ee;
+  border-radius: 50%;
+  background-color: #303943;
+  position: absolute;
+  left: -1rem;
+  transform: translateX(-45%);
+  top: -1px;
+}

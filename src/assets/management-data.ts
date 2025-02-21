@@ -1,0 +1,48 @@
+export const MANAGEMENT_DATA = [
+  {
+    id: 1,
+    imageSrc: '/manage_chownow.jpg',
+    imageAltText: 'Management at Chownow',
+    companyName: 'Chownow',
+    role: 'Front End Lead & Manager',
+    responsibilities: [
+      'Architecture planning and implementation',
+      'Create logic flowcharts',
+      'Estimate project size and timelines',
+      'Deconstruct complex Jira epics',
+      'Front end team documentation',
+      'Track project and team goals',
+      'Cross functional communication',
+      'Technical presentations',
+      'Recruit new talent',
+    ],
+  },
+  {
+    id: 2,
+    imageSrc: '/manage_cornerstone.jpg',
+    imageAltText: 'Management at Cornerstone on Demand',
+    companyName: 'Cornerstone on Demand',
+    role: 'Principal Front End Engineer',
+    responsibilities: [
+      'Train junior and backend developers in front end skills',
+      'Advocate for and implement accessibility standards',
+      'Technical project research',
+      'Project planning and estimations',
+      'Lead front end coding standards',
+      'Assist in development of component library',
+    ],
+  },
+  {
+    id: 3,
+    imageSrc: '/manage_society6.jpg',
+    imageAltText: 'Management at Society6.com',
+    companyName: 'Leaf Group',
+    role: 'Senior & Lead Front End',
+    responsibilities: [
+      'Help set front end coding standards',
+      'Lead development of UX customer features',
+      'Manage and mentor front end interns',
+      'Anaylyze 3rd party product tooling',
+    ],
+  },
+];

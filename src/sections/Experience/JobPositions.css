@@ -1,0 +1,13 @@
+.job-positions {
+  position: relative;
+}
+
+.job-positions::before {
+  content: '';
+  width: 3px;
+  background-color: #22d3ee;
+  height: 100%;
+  left: 4px;
+  display: block;
+  position: absolute;
+}

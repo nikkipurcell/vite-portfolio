@@ -1,0 +1,88 @@
+export const PORTFOLIO_DATA = [
+  {
+    id: 1,
+    title: 'Dark Shadows Meets The Residents',
+    fulltitle: 'Dark Shadows: Meet The Residents of Collinsport',
+    client: 'Warner Bros',
+    role: 'Lead Front End Developer',
+    imageSrc: '/folio_webDS.jpg',
+    imageBigSrc: '/darkshadows-1.jpg',
+    brief:
+      'Create an enriching website experience for the movie Dark Shadows that introduce each character while maintaining the eerie and eccentric tone of the movie.',
+    solution:
+      'Our team created a vertically scrolling site that used cinemagraphs created in AfterEffects to show an animation for each character. The site had tricky placement of the cinemagraphs and a slide-in music player. Our team won the FWA award for site of the day on June 3, 2012. Award details: https://thefwa.com/cases/meet-the-residents-of-collinsport',
+    technologies: ['HTML5', 'CSS3', 'jQuery', 'JavaScript'],
+    modal: true,
+  },
+  {
+    id: 2,
+    title: 'The Search For Tobin Frost',
+    fulltitle: 'Tobin Frost: Safehouse',
+    client: 'Universal Pictures',
+    role: 'Lead Front End Developer',
+    imageSrc: '/folio_webTF.jpg',
+    imageBigSrc: '/tobinfrost-1.jpg',
+    brief: 'Create a game based on the movie Tobin Frost starring Denzel Washington that can be played on desktop and an iPad.',
+    solution:
+      'Our team created a guessing game in which the player receives clues and has a specified time limit to solve the mystery of which country the character Tobin Frost has escaped to. This rich online gaming experience included lots of JavaScript logic.',
+    technologies: ['HTML5', 'CSS3', 'JavaScript'],
+    modal: true,
+  },
+  {
+    id: 3,
+    title: 'Frankenweenie Theatrical Site',
+    fulltitle: 'Frankenweenie Theatrical Site',
+    client: 'Walt Disney Pictures',
+    role: 'Lead Front End Developer',
+    imageSrc: '/folio_webFW.jpg',
+    imageBigSrc: '/frankenweenie-1.jpg',
+    brief: 'Create a mobile and tablet interactive site for Frankenweenie to introduce characters, gallery images, and video clips.',
+    solution:
+      'We created a site where you could click on the images of the characters to reveal the name and info of each character. I built an image and video gallery and movie synopsis page. The site was built to support desktop, tablet and mobile.',
+    technologies: ['HTML5', 'CSS3', 'jQuery', 'JavaScript'],
+    modal: true,
+  },
+  {
+    id: 4,
+    title: 'Bioshock Infinite Video Game Site',
+    fulltitle: 'Bioshock Infinite Video Game Website',
+    client: 'Irrational Games',
+    role: 'Lead Front End Developer',
+    imageSrc: '/folio_webBS.jpg',
+    imageBigSrc: '/bioshock-1.jpg',
+    brief: 'Create a website to show information, video clips and gallery images for the video game Bioshock Infinite.',
+    solution:
+      'We created a informational website that included heavy graphics, pagination, video and gallery content. The heavy graphics called for some unique CSS challenges which were all met. The site also included a background image that scaled behind the content to fit any width screen.',
+    technologies: ['HTML5', 'CSS3', 'jQuery', 'JavaScript'],
+    modal: true,
+  },
+  {
+    id: 5,
+    title: 'MGM Grand Sanya Hotel',
+    fulltitle: 'MGM Hospitality',
+    client: 'MGM Hospitality',
+    role: 'Lead Front End Developer',
+    imageSrc: '/folio_webSAN.jpg',
+    imageBigSrc: '/mgmsanya-1.jpg',
+    brief: 'Create a new website for the MGM Grand hotel property in Sanya, China.',
+    solution:
+      'We created a website for MGM Grand Sanya that contained information about accommodations, hotel activities, and a reservation system for the hotel. Lots of custom CSS, dropdowns, scrollbars and customizing form features were included.',
+    technologies: ['HTML5', 'CSS3', 'UX Design'],
+    modal: true,
+  },
+  {
+    id: 6,
+    title: 'Dr. Oz International Sales Kit',
+    fulltitle: 'Dr Oz International Sales Kit',
+    client: 'Sony Pictures Television',
+    role: 'Manager and Lead Front End Developer',
+    imageSrc: '/folio_webOZ.jpg',
+    imageBigSrc: '/droz-1.jpg',
+    brief:
+      'Create a website to contain the sales kit for the Dr Oz Show. The sales kit included press articles, episode information and other pertinent information for the show.',
+    solution:
+      'I created a website that contained all the informational pieces for the show. The site included breadcrumbs, dropdown menus, lightboxes, downloadable assets and a login form. I also created a database to contain most of the information for the site.',
+    technologies: ['PHP', 'mySQL', 'HTML5', 'CSS3', 'JavaScript', 'PhotoShop', 'UX Design'],
+    modal: true,
+  },
+];

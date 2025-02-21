@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@layer base {
+  body {
+    background: #1f2833 url('pagebody_bg.jpg') repeat 0 0;
+  }
+  nav {
+    background: #1f2833 url('body_bg.jpg') repeat 0 0;
+  }
+}
