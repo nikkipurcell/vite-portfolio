@@ -19,10 +19,6 @@ export interface CardProps {
   };
 }
 
-// const ModalContent = () => {
-//   return <div>This is an example of modal data</div>;
-// };
-
 // maybe change this so we are only adding one style "is-open"
 // move the css below into that css style definition
 const Card: React.FC<CardProps> = ({ cardData }) => {

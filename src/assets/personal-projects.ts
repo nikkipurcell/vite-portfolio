@@ -6,6 +6,7 @@ export const PERSONAL_PROJECTS_DATA = [
     client: 'ghoulieguide.com',
     role: 'Creator, designer, software engineer',
     imageSrc: '/folio_webGG.jpg',
+    imageBigSrc: '',
     brief: 'I wanted to create a personal blog website using Wordpress for my hobbies and interest in Halloween.',
     solution:
       'I created the Wordpress site and have evolved it using some JavaScript, PHP and mySQL. I created a database of monsters and interactive way to display them all. I also designed the site from scratch.',
@@ -19,6 +20,7 @@ export const PERSONAL_PROJECTS_DATA = [
     client: 'adventure-tales.com',
     role: 'Designer and software engineer',
     imageSrc: '/folio_webAT.jpg',
+    imageBigSrc: '',
     brief: 'I wanted to create a site to help inspire and inform people about various adventures, travels, sports and adventure gear.',
     solution:
       'I created designed and created my own adventure and travel blog. I designed the site myself, write the content and provide the photography for the site. This site is truly my labor of love.',
@@ -32,6 +34,7 @@ export const PERSONAL_PROJECTS_DATA = [
     client: 'Personal Food Recipes Site',
     role: 'Lead front-end developer',
     imageSrc: '/folio_webRP.jpg',
+    imageBigSrc: '',
     brief: 'I wanted to create an online location for all my favorite recipes. I wanted to break them up into different categories and seasons.',
     solution: 'I created and designed the recipes website using mySQL database and PHP.',
     technologies: ['HTML5', 'CSS3', 'JavaScript', 'PHP', 'mySQL', 'Wordpress'],
