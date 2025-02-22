@@ -11,9 +11,9 @@
 
 @layer base {
   body {
-    background: #1f2833 url('pagebody_bg.jpg') repeat 0 0;
+    background: #1f2833 url('/pagebody_bg.jpg') repeat 0 0;
   }
   nav {
-    background: #1f2833 url('body_bg.jpg') repeat 0 0;
+    background: #1f2833 url('/body_bg.jpg') repeat 0 0;
   }
 }
