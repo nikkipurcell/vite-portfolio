@@ -1,6 +1,7 @@
 .card {
   width: 320px;
   height: 227px;
+  background-image: url('/vite-portfolio/bgimg.jpg ');
 }
 
 .mask {

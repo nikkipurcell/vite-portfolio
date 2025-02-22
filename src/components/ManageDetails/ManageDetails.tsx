@@ -25,12 +25,7 @@ const ManageDetails: React.FC<ManagementProps> = ({ jobData }) => {
           <span className="font-semibold text-white">Roles</span>: {jobData.role}
         </p>
         <h3 className="pb-2 font-semibold text-white">Responsibilities Included:</h3>
-        <ul className="hidden pl-5 md:block">
-          {jobData.responsibilities.map((item: string) => (
-            <li key={item}>----- {item}</li>
-          ))}
-        </ul>
-        <ul className="block pl-2 md:hidden">
+        <ul className="pl-2">
           {jobData.responsibilities.map((item: string) => (
             <li key={item}>* {item}</li>
           ))}

@@ -34,7 +34,7 @@ const Card: React.FC<CardProps> = ({ cardData }) => {
   };
 
   return (
-    <div className="card relative mx-auto my-2.5 overflow-hidden border-[10px] border-solid border-neutral-600 bg-[url('./bgimg.jpg')] text-center shadow-[1px_2px_5px_rgba(0,0,0,1)]">
+    <div className="card relative mx-auto my-2.5 overflow-hidden border-[10px] border-solid border-neutral-600 text-center shadow-[1px_2px_5px_rgba(0,0,0,1)]">
       <img
         src={cardData.imageSrc}
         className="cardImg relative scale-y-100 transition-all duration-700 ease-in-out hover:scale-[10] hover:opacity-0"
