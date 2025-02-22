@@ -5,7 +5,7 @@ export const PERSONAL_PROJECTS_DATA = [
     fulltitle: 'Personal Halloween Blog',
     client: 'ghoulieguide.com',
     role: 'Creator, designer, software engineer',
-    imageSrc: '/folio_webGG.jpg',
+    imageSrc: '/vite-portfolio/folio_webGG.jpg',
     imageBigSrc: '',
     brief: 'I wanted to create a personal blog website using Wordpress for my hobbies and interest in Halloween.',
     solution:
@@ -19,7 +19,7 @@ export const PERSONAL_PROJECTS_DATA = [
     fulltitle: 'Adventure Tales Travel Blog',
     client: 'adventure-tales.com',
     role: 'Designer and software engineer',
-    imageSrc: '/folio_webAT.jpg',
+    imageSrc: '/vite-portfolio/folio_webAT.jpg',
     imageBigSrc: '',
     brief: 'I wanted to create a site to help inspire and inform people about various adventures, travels, sports and adventure gear.',
     solution:
@@ -33,7 +33,7 @@ export const PERSONAL_PROJECTS_DATA = [
     fulltitle: 'Personal Food Recipes Site',
     client: 'Personal Food Recipes Site',
     role: 'Lead front-end developer',
-    imageSrc: '/folio_webRP.jpg',
+    imageSrc: '/vite-portfolio/folio_webRP.jpg',
     imageBigSrc: '',
     brief: 'I wanted to create an online location for all my favorite recipes. I wanted to break them up into different categories and seasons.',
     solution: 'I created and designed the recipes website using mySQL database and PHP.',

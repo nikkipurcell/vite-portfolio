@@ -1,7 +1,7 @@
 export const MANAGEMENT_DATA = [
   {
     id: 1,
-    imageSrc: '/manage_chownow.jpg',
+    imageSrc: '/vite-portfolio/manage_chownow.jpg',
     imageAltText: 'Management at Chownow',
     companyName: 'Chownow',
     role: 'Front End Lead & Manager',
@@ -19,7 +19,7 @@ export const MANAGEMENT_DATA = [
   },
   {
     id: 2,
-    imageSrc: '/manage_cornerstone.jpg',
+    imageSrc: '/vite-portfolio/manage_cornerstone.jpg',
     imageAltText: 'Management at Cornerstone on Demand',
     companyName: 'Cornerstone on Demand',
     role: 'Principal Front End Engineer',
@@ -34,7 +34,7 @@ export const MANAGEMENT_DATA = [
   },
   {
     id: 3,
-    imageSrc: '/manage_society6.jpg',
+    imageSrc: '/vite-portfolio/manage_society6.jpg',
     imageAltText: 'Management at Society6.com',
     companyName: 'Leaf Group',
     role: 'Senior & Lead Front End',

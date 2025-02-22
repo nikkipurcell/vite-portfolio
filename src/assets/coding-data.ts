@@ -5,7 +5,7 @@ export const CODING_DATA = [
     fulltitle: 'An Admin Dashboard application created with Next.js',
     client: 'https://github.com/nikkipurcell/nextjs-dashboard',
     role: 'Developer',
-    imageSrc: '/coding_nextjs.jpg',
+    imageSrc: '/vite-portfolio/coding_nextjs.jpg',
     imageBigSrc: '',
     brief: 'nextjs-dashboard',
     solution:
@@ -19,7 +19,7 @@ export const CODING_DATA = [
     fulltitle: 'A fullstack ecommerce retail clothing website',
     client: 'https://github.com/nikkipurcell/react-crwn-clothing',
     role: 'Developer',
-    imageSrc: '/coding_crwn_clothing.jpg',
+    imageSrc: '/vite-portfolio/coding_crwn_clothing.jpg',
     imageBigSrc: '',
     brief: 'react-crwn-clothing',
     solution:
@@ -33,7 +33,7 @@ export const CODING_DATA = [
     fulltitle: 'An email application that uses a mySQL database, Express, and Node.js',
     client: 'https://github.com/nikkipurcell/mysql-join-us',
     role: 'Developer',
-    imageSrc: '/coding_mysql.jpg',
+    imageSrc: '/vite-portfolio/coding_mysql.jpg',
     imageBigSrc: '',
     brief: 'mysql-join-us',
     solution:
@@ -47,7 +47,7 @@ export const CODING_DATA = [
     fulltitle: 'A an interactive app that uses the Geolocation API',
     client: 'https://github.com/nikkipurcell/js-mapty',
     role: 'Developer',
-    imageSrc: '/coding_mapty.jpg',
+    imageSrc: '/vite-portfolio/coding_mapty.jpg',
     imageBigSrc: '',
     brief: 'js-mapty',
     solution:
@@ -61,7 +61,7 @@ export const CODING_DATA = [
     fulltitle: 'A demo banking application',
     client: 'https://github.com/nikkipurcell/js-bankist',
     role: 'Developer',
-    imageSrc: '/coding_bankist.jpg',
+    imageSrc: '/vite-portfolio/coding_bankist.jpg',
     imageBigSrc: '',
     brief: 'js-bankist',
     solution:

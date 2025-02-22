@@ -5,8 +5,8 @@ export const PORTFOLIO_DATA = [
     fulltitle: 'Dark Shadows: Meet The Residents of Collinsport',
     client: 'Warner Bros',
     role: 'Lead Front End Developer',
-    imageSrc: '/folio_webDS.jpg',
-    imageBigSrc: '/darkshadows-1.jpg',
+    imageSrc: '/vite-portfolio/folio_webDS.jpg',
+    imageBigSrc: '/vite-portfolio/darkshadows-1.jpg',
     brief:
       'Create an enriching website experience for the movie Dark Shadows that introduce each character while maintaining the eerie and eccentric tone of the movie.',
     solution:
@@ -20,8 +20,8 @@ export const PORTFOLIO_DATA = [
     fulltitle: 'Tobin Frost: Safehouse',
     client: 'Universal Pictures',
     role: 'Lead Front End Developer',
-    imageSrc: '/folio_webTF.jpg',
-    imageBigSrc: '/tobinfrost-1.jpg',
+    imageSrc: '/vite-portfolio/folio_webTF.jpg',
+    imageBigSrc: '/vite-portfolio/tobinfrost-1.jpg',
     brief: 'Create a game based on the movie Tobin Frost starring Denzel Washington that can be played on desktop and an iPad.',
     solution:
       'Our team created a guessing game in which the player receives clues and has a specified time limit to solve the mystery of which country the character Tobin Frost has escaped to. This rich online gaming experience included lots of JavaScript logic.',
@@ -34,8 +34,8 @@ export const PORTFOLIO_DATA = [
     fulltitle: 'Frankenweenie Theatrical Site',
     client: 'Walt Disney Pictures',
     role: 'Lead Front End Developer',
-    imageSrc: '/folio_webFW.jpg',
-    imageBigSrc: '/frankenweenie-1.jpg',
+    imageSrc: '/vite-portfolio/folio_webFW.jpg',
+    imageBigSrc: '/vite-portfolio/frankenweenie-1.jpg',
     brief: 'Create a mobile and tablet interactive site for Frankenweenie to introduce characters, gallery images, and video clips.',
     solution:
       'We created a site where you could click on the images of the characters to reveal the name and info of each character. I built an image and video gallery and movie synopsis page. The site was built to support desktop, tablet and mobile.',
@@ -48,8 +48,8 @@ export const PORTFOLIO_DATA = [
     fulltitle: 'Bioshock Infinite Video Game Website',
     client: 'Irrational Games',
     role: 'Lead Front End Developer',
-    imageSrc: '/folio_webBS.jpg',
-    imageBigSrc: '/bioshock-1.jpg',
+    imageSrc: '/vite-portfolio/folio_webBS.jpg',
+    imageBigSrc: '/vite-portfolio/bioshock-1.jpg',
     brief: 'Create a website to show information, video clips and gallery images for the video game Bioshock Infinite.',
     solution:
       'We created a informational website that included heavy graphics, pagination, video and gallery content. The heavy graphics called for some unique CSS challenges which were all met. The site also included a background image that scaled behind the content to fit any width screen.',
@@ -62,8 +62,8 @@ export const PORTFOLIO_DATA = [
     fulltitle: 'MGM Hospitality',
     client: 'MGM Hospitality',
     role: 'Lead Front End Developer',
-    imageSrc: '/folio_webSAN.jpg',
-    imageBigSrc: '/mgmsanya-1.jpg',
+    imageSrc: '/vite-portfolio/folio_webSAN.jpg',
+    imageBigSrc: '/vite-portfolio/mgmsanya-1.jpg',
     brief: 'Create a new website for the MGM Grand hotel property in Sanya, China.',
     solution:
       'We created a website for MGM Grand Sanya that contained information about accommodations, hotel activities, and a reservation system for the hotel. Lots of custom CSS, dropdowns, scrollbars and customizing form features were included.',
@@ -76,8 +76,8 @@ export const PORTFOLIO_DATA = [
     fulltitle: 'Dr Oz International Sales Kit',
     client: 'Sony Pictures Television',
     role: 'Manager and Lead Front End Developer',
-    imageSrc: '/folio_webOZ.jpg',
-    imageBigSrc: '/droz-1.jpg',
+    imageSrc: '/vite-portfolio/folio_webOZ.jpg',
+    imageBigSrc: '/vite-portfolio/droz-1.jpg',
     brief:
       'Create a website to contain the sales kit for the Dr Oz Show. The sales kit included press articles, episode information and other pertinent information for the show.',
     solution:
