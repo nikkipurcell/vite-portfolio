@@ -4,7 +4,7 @@ Welcome to the my online portfolio.
 
 I decided to create this so I have a website that demos some latest front end technologies I've used. It's also an organized place for me to showcase projects I've worked on and employment skills I've gained over the years. Even if I've been managing or leading teams, I don't want my skills to rust so this is my technical playground. Oh and you can call me Nikki.
 
-Visit the site here: (Nikki's Online Portfolio)[https://nikkipurcell.github.io/vite-portfolio/]
+Visit the site here: [Nikki's Online Portfolio](https://nikkipurcell.github.io/vite-portfolio/)
 
 ## Tech Stack
 
