@@ -1,4 +1,4 @@
-# Online Portfolio of Nichole Purcell
+# Nichole Purcell's Career Portfolio
 
 Welcome to the my online portfolio.
 
